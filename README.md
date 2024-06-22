@@ -1,4 +1,4 @@
-# AYGAZ AI Bootcamp Projem
+# AYGAZ Global AI Bootcamp Projem
 
 Bu proje, farklı makine öğrenmesi algoritmalarını kullanarak çeşitli veri setleri üzerinde model oluşturma, eğitme ve değerlendirme işlemlerini kapsamaktadır. Proje, eğitim ve test veri setlerini kullanarak doğruluk, F1 skoru, geri çağırma ve kesinlik gibi performans metriklerini hesaplamaktadır.
 
