@@ -22,7 +22,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
    pip install -r requirements.txt
 
 2. Proje dosyalarını bilgisayarınıza klonlayın:
-git clone https://github.com/kullanici-adi/AI-Project.git
+git clone https://github.com/AI-Project.git
 cd AI-Project
 
 3.Jupyter Notebook veya herhangi bir Python IDE kullanarak .ipynb uzantılı dosyayı açın ve çalıştırın.
