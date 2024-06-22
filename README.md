@@ -22,8 +22,8 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
    pip install -r requirements.txt
 
 2. Proje dosyalarını bilgisayarınıza klonlayın:
-git clone https://github.com/AI-Project.git
-cd AI-Project
+cd /path/to/your/directory
+git clone https://github.com/myz21/bootcampAI
 
 3.Jupyter Notebook veya herhangi bir Python IDE kullanarak .ipynb uzantılı dosyayı açın ve çalıştırın.
 
